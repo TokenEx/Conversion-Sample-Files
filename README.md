@@ -2,7 +2,7 @@
 Sample files used in the TokenEx conversion process
 
 ### Request File
-**Description:** This is the file that you will send to us with the data to Tokenize
+**Description:** This is the file that you will send to us with the data to Tokenize. The file should contain a unique identifier from your system as well as the data to Tokenize.
 
 **Format:** CSV
 
@@ -19,8 +19,8 @@ Sample files used in the TokenEx conversion process
 
 
 
-### Request File
-**Description:** This is the file that you will send to us with the data to Tokenize
+### Response File
+**Description:** This is the file that you will send to us with the data to Tokenize. The file will contain your unique identifier as well as a success flag and the token. If the success flag is "N", then there will be a human readable error message in place of the token.
 
 **Format:** CSV
 
