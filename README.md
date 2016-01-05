@@ -10,10 +10,12 @@ Sample files used in the TokenEx conversion process
 
 **Fields:** UniqueIDFromYourSystem,DataToTokenize
 
-> 123,4111111111111111
-> 124,4242424242424242
-> 125,5454545454545454
-> 126,ABCDEFG
+``` csv
+123,4111111111111111
+124,4242424242424242
+125,5454545454545454
+126,ABCDEFG
+```
 
 
 
@@ -26,8 +28,9 @@ Sample files used in the TokenEx conversion process
 
 **Fields:** UniqueIDFromYourSystem,SucessFlag,TokenOrErrorMessage
 
-
-> 123,Y,4111540080001111
-> 124,Y,4242466950034242
-> 125,Y,5454658510085454
-> 126,N,ErrorMessageHere
+``` csv
+123,Y,4111540080001111
+124,Y,4242466950034242
+125,Y,5454658510085454
+126,N,ErrorMessageHere
+```
