@@ -20,7 +20,7 @@ Sample files used in the TokenEx conversion process
 
 
 ### Response File
-**Description:** This is the file that you will send to us with the data to Tokenize. The file will contain your unique identifier as well as a success flag and the token. If the success flag is "N", then there will be a human readable error message in place of the token.
+**Description:** This is the file that we will return you. The file will contain your unique identifier as well as a success flag and the token. If the success flag is "N", then there will be a human readable error message in place of the token.
 
 **Format:** CSV
 
